@@ -35,3 +35,4 @@ Array.prototype.sum     = function () { return this.reduce(function(a, b) { retu
 Array.prototype.even    = function () { return this.filter(function(item) { return 0 == item % 2; }); }
 Array.prototype.odd     = function () { return this.filter(function(item) { return 0 != item % 2; }); }
 
+// or

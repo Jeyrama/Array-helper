@@ -24,3 +24,6 @@ numbers.sum();     // must return 15
 numbers.even();    // must return [2, 4]
 numbers.odd();     // must return [1, 3, 5]
 */
+
+
+// Solution
